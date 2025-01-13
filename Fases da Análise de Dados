@@ -1,0 +1,12 @@
+ As fases da análise de dados são: pergunte, prepare, processe, análise, compartilhe e aja.
+Em inglês: ask, prepare, process, analyze, share e act.
+*Ask: se caracteriza por entender o desafio a ser resolvido/ pergunta a ser respondida
+*Prepare: tem o intuito de coletar os dados necessários para responder as perguntas, e identificar quais fontes´e ferramentas serão utilizadas, além de checar a vericidade, importância e desempenho.
+*Process: tem como primeiro passo a limpeza e organização dos dados, removendo inconsistências e preenchendo valores ausentes. E em alguns casos, se realiza uma conversão de dados
+*Analyse: os dados são analisádos parar gerra respostas/soluções
+ Uma das principais atividades é o calculo da média e contagem de itens para examinar tendências e padrões
+*Share: elaboração de gráficos no google sheets, tableau ou no R
+
+ Entretanto, dependendo do perfil da empresa ou do projeto, há fases diferentes, como:
+*Em processos ciclicos (como o da EMC) ocorre: descoberta, pré-processamento de dados, planejamento de modelos, construção de modelo, comunicação dos resultados, operacionaalização;
+*Em processo interativo (como o da SAS) as etapas são as seguintes: perguntar, preparar-se, explorar, modelar, implementar, agir e avaliar;
